@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Jochen Ramm",
+        "description": "Das ist die Geschichte zum Rezept",
+        "image": "",
+        "name": "Quiche mit Spinat, Feta, Tomaten und Pinienkernen",
+        "recipeIngredient": [
+            "275 g Bl\u00e4tterteig",
+            "450 g Spinat TK",
+            "1 kleine\tZwiebel(n)",
+            "40 g\tPinienkerne gehackt",
+            "10\tCocktailtomaten",
+            "etwas\tGouda gerieben",
+            "3\tEi(er)",
+            "2\tKnoblauchzehe(n)",
+            "1 Prise(n)\tSalz und Pfeffer",
+            "wenig\tMuskat frisch gerieben",
+            "200 g\tFeta-K\u00e4se"
+        ],
+        "recipeInstructions": "Eine Quicheform, Durchmesser 28 cm, mit Butter ausfetten, mit dem Bl\u00e4tterteig auslegen, diesen mit einer Gabel mehrmals einstechen und die Form bis zur Weiterverarbeitung in den K\u00fchlschrank stellen.  Den Ofen auf 180\u00b0 C Ober-/Unterhitze vorheizen.  In einer beschichteten Pfanne etwas Oliven\u00f6l erhitzen und zuerst die Pinienkerne leicht anr\u00f6sten und auf ein kleines Tellerchen legen.  Danach die Zwiebelw\u00fcrfel glasig d\u00fcnsten. Den Spinat hinzuf\u00fcgen, die Knoblauchzehen dazupressen und bei kleiner Hitze auftauen lassen. M\u00f6glichst wenig Wasser ziehen lassen. Mit Salz, Pfeffer und Muskat kr\u00e4ftig abschmecken.  Den Feta in kleine W\u00fcrfel schneiden und mit den verquirlten Eiern - man kann etwas Sahne hinzuf\u00fcgen - dem Reibek\u00e4se und den Pinienkernen mischen. Danach nach Belieben ein klein wenig w\u00fcrzen.  Den Spinat in die mit Bl\u00e4tterteig ausgelegte Form geben und die Eier-Feta-Pinienkern Mischung dar\u00fcber sch\u00fctten und gut glatt streichen. Am Schluss die halbierten Cocktailtomaten in die Mischung dr\u00fccken.  Auf der mittleren Schiene ca. 45 Minuten backen."
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Jochen Ramm",
+        "description": "fkdl\u00f6afkdsa",
+        "image": "",
+        "name": "Omelette a la mama",
+        "recipeIngredient": [
+            "275 g\tBl\u00e4tterteig",
+            " TK 450 g\tSpinat",
+            " TK 1 kleine\tZwiebel(n)",
+            " gehackt 40 g\tPinienkerne 10\tCocktailtomaten etwas\tGouda",
+            " gerieben 3\tEi(er) 2\tKnoblauchzehe(n) 1 Prise(n)\tSalz und Pfeffer wenig\tMuskat",
+            " frisch gerieben 200 g\tFeta-K\u00e4se"
+        ],
+        "recipeInstructions": "Eine Quicheform, Durchmesser 28 cm, mit Butter ausfetten, mit dem Bl\u00e4tterteig auslegen, diesen mit einer Gabel mehrmals einstechen und die Form bis zur Weiterverarbeitung in den K\u00fchlschrank stellen.  Den Ofen auf 180\u00b0 C Ober-/Unterhitze vorheizen.  In einer beschichteten Pfanne etwas Oliven\u00f6l erhitzen und zuerst die Pinienkerne leicht anr\u00f6sten und auf ein kleines Tellerchen legen.  Danach die Zwiebelw\u00fcrfel glasig d\u00fcnsten. Den Spinat hinzuf\u00fcgen, die Knoblauchzehen dazupressen und bei kleiner Hitze auftauen lassen. M\u00f6glichst wenig Wasser ziehen lassen. Mit Salz, Pfeffer und Muskat kr\u00e4ftig abschmecken.  Den Feta in kleine W\u00fcrfel schneiden und mit den verquirlten Eiern - man kann etwas Sahne hinzuf\u00fcgen - dem Reibek\u00e4se und den Pinienkernen mischen. Danach nach Belieben ein klein wenig w\u00fcrzen.  Den Spinat in die mit Bl\u00e4tterteig ausgelegte Form geben und die Eier-Feta-Pinienkern Mischung dar\u00fcber sch\u00fctten und gut glatt streichen. Am Schluss die halbierten Cocktailtomaten in die Mischung dr\u00fccken.  Auf der mittleren Schiene ca. 45 Minuten backen."
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Test Test1",
+        "description": "Testgeschichte zum Rezept",
+        "image": "",
+        "name": "Das ist der Testname meines Rezepts",
+        "recipeIngredient": [
+            "400g Testzutaten",
+            " 3 Eier"
+        ],
+        "recipeInstructions": "Ganz einfach"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Markus Smieja",
+        "description": "Lore Ipsum und erst hin dann her",
+        "image": "",
+        "name": "Quiche Lorraine",
+        "recipeIngredient": [
+            "Zutaten M\u00fcrbeteig: 200g Mehl",
+            " 125g weiche Butter",
+            " 1EL frisch geriebener Gruyere K\u00e4se",
+            " 1 Knoblauchzehe",
+            " Salz und Pfeffer; Zutaten F\u00fcllung: 150g gekochter Schinken",
+            " 100g milder roher Schinken in d\u00fcnnen Scheiben",
+            " 1g Bund gemischte Kr\u00e4uter",
+            " 3 Zwiebeln",
+            " 3 Knoblauchzehen",
+            " 4 Eier",
+            " 200g frisch geriebener Gruyere K\u00e4se",
+            " 200g Sahne",
+            " Salz und Pfeffer aus der M\u00fchle"
+        ],
+        "recipeInstructions": "Die weiche Butter in einer gro\u00dfen Sch\u00fcssel mit dem Mehl verkneten. Etwa 3 EL kaltes Wasser unterarbeiten. Den K\u00e4se (1 EL) dazugeben, salzen, pfeffern. Den gesch\u00e4lten Knoblauch durch die Presse dazu dr\u00fccken. Den Teig nochmal durchkneten und an einemn k\u00fchlen Platz 1 Std. ruhen lasser.   F\u00fcr den Belag die beiden Schinkensorten w\u00fcrfeln. Die Zwiebeln sch\u00e4len und fein hacken. Die gewaschenen Kr\u00e4uter fein zerkleinern. Alles in einer Sch\u00fcssel vermengen. Den Knoblauch sch\u00e4len und dazu pressen. In einer anderen Sch\u00fcssel die Eier verquirlen. Den K\u00e4se und die Sahne unterr\u00fchren, salzen und pfeffern. Backofen auf 200 Grad vorheizen. Nach der Ruhezeit den Teig mit den Fingern flachdr\u00fccken und in Springform (28 cm) legen. Einen ca. 3 cm hohen Rand hochziehen. Den Teig auf der mittleren Schiene etwa 10 Min. vorbacken.   Die Schinken-Kr\u00e4uter Mischung auf dem Teig verteilen. Die K\u00e4se-Sahne dar\u00fcber gie\u00dfen. Die Quiche bei 250 Grad auf der mittleren Schiene in etwa 1 Std. fertig backen."
+    }
+]
