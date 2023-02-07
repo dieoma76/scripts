@@ -1,0 +1,71 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Markus Smieja",
+        "cookTime": "5",
+        "description": "Kinder lieben das",
+        "image": "https://onevmw-my.sharepoint.com/personal/msmieja_vmware_com/Documents/Apps/Microsoft%20Forms/VMware%20Kochbuch/Frage/IMG_EE555719144B-1_Markus%20Smieja%202.jpeg",
+        "name": "Fisch in Sauce",
+        "recipeIngredient": [
+            "1 Fisch",
+            " 1 Tomaten p\u00fcriert"
+        ],
+        "recipeInstructions": "alles mixen, fertig"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Jochen Ramm",
+        "cookTime": "100",
+        "description": "n\u00f6",
+        "image": "https://onevmw-my.sharepoint.com/personal/msmieja_vmware_com/Documents/Apps/Microsoft%20Forms/VMware%20Kochbuch/Frage/IMG_EE555719144B-1_Markus%20Smieja%203.jpeg",
+        "name": "Kichererbsenp\u00fcree",
+        "recipeIngredient": [
+            "3 Kichererbsen",
+            " 1 Sauce"
+        ],
+        "recipeInstructions": "alles mixen, fertig und lecker"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Jochen Ramm",
+        "cookTime": "100",
+        "description": "n\u00f6",
+        "image": "https://onevmw-my.sharepoint.com/personal/msmieja_vmware_com/Documents/Apps/Microsoft%20Forms/VMware%20Kochbuch/Frage/geschla%CC%88ngel_Markus%20Smieja.png",
+        "name": "Kichererbsenp\u00fcree",
+        "recipeIngredient": [
+            "3 Kichererbsen",
+            " 1 Sauce"
+        ],
+        "recipeInstructions": "alles mixen, fertig und lecker"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Jochen Ramm",
+        "cookTime": "100",
+        "description": "n\u00f6",
+        "image": "https://onevmw-my.sharepoint.com/personal/msmieja_vmware_com/Documents/Apps/Microsoft%20Forms/VMware%20Kochbuch/Frage/189178179_l_Markus%20Smieja.jpg",
+        "name": "Kichererbsenp\u00fcree",
+        "recipeIngredient": [
+            "3 Kichererbsen",
+            " 1 Sauce"
+        ],
+        "recipeInstructions": "alles mixen, fertig und lecker"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "author": "Meister Smieja",
+        "cookTime": "500",
+        "description": "nein",
+        "image": "https://onevmw-my.sharepoint.com/personal/msmieja_vmware_com/Documents/Apps/Microsoft%20Forms/VMware%20Kochbuch/Frage/BMW_End2End2_Markus%20Smieja.png",
+        "name": "gegrilltes Kind",
+        "recipeIngredient": [
+            "1 Kind"
+        ],
+        "recipeInstructions": "Grillspie\u00df und fertig"
+    }
+]
